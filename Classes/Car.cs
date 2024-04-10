@@ -5,6 +5,7 @@ namespace Classes
 	{
 		public Car()
 		{
+
 		}
 
 		//Creating public property of type string
